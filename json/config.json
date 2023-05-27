@@ -1,5 +1,5 @@
 {
-	"token": "MTA4NTYxNDY0NDk1MTAwMzE3Nw.G7doie.ivjVmrHST1472NinEMbX1LuuqG5X2DbpPche-E",
+	"token": "MTExMjAyMzAwMzY1NjYyNjIwNg.GESL0m._tUcK2pl6CehE3txz-CvzNnaP2xkT2BCPcVmx0",
 	"prefix": "!",
 	"loghook": "webhook url",
 	"command_cooldown_time": 300,
@@ -8,13 +8,13 @@
 	"developer_success_icon_url": "",
 	"developer_error_icon_url": "",
 
-	"nuke_channels_name": "crash3d",
-	"nuke_voice_name": "DDoS By Anarchy",
-	"nuke_categories_name": "DDoS By Anarchy",
+	"nuke_channels_name": "RUN BY TGT",
+	"nuke_voice_name": "RUN BY TGT",
+	"nuke_categories_name": "RUN BY TGT",
 
-	"nuke_server_name": "...<<<CaSh3D>>>...",
-	"nuke_roles_name": "crash3d",
-	"nuke_webhook_name": "CrAsH3D by Anarchy Syndicate",
+	"nuke_server_name": "RUN BY TGT",
+	"nuke_roles_name": "Glory to TGT",
+	"nuke_webhook_name": "RUN BY TGT",
 
 	"nuke_avatar_file": "avatar.jpg",
 	"spam_text_file": "spam_text.txt"
